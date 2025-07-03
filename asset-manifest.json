@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caremore/static/css/main.e6c13ad2.css",
+    "main.js": "/caremore/static/js/main.722f2e14.js",
+    "static/js/453.e28cb078.chunk.js": "/caremore/static/js/453.e28cb078.chunk.js",
+    "index.html": "/caremore/index.html",
+    "main.e6c13ad2.css.map": "/caremore/static/css/main.e6c13ad2.css.map",
+    "main.722f2e14.js.map": "/caremore/static/js/main.722f2e14.js.map",
+    "453.e28cb078.chunk.js.map": "/caremore/static/js/453.e28cb078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.722f2e14.js"
+  ]
+}
